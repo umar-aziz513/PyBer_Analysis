@@ -1,4 +1,4 @@
-				                                    ***Pyber Analysis***
+				                                    *Pyber Analysis*
 *Overview*
 
 The objective of this analysis was to make comparison between the different city types in terms of the amount of Fare earned in each type.
